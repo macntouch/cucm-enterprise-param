@@ -1,4 +1,4 @@
-# cucmenterpriseapp
+# CUCM Enterprise App
 Python Tkinter App to Update Cisco CUCM Enterprise Parameters
 
 ### Create Virtual Enviroment with pynenv
