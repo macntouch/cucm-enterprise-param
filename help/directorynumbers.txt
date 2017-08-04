@@ -1,0 +1,13 @@
+#   
+#       SAMPLE FILE
+#	
+#	Format:
+#	current directory number, updated directory number, route partition
+#
+#	Application will error out if the current directory number does not exist
+#	in the provided route partition or if route partition does not exist.
+#
+#	Remove these lines before proceeding. Text file does not uses any headers.
+#
+#
+2300,\+17164182300,Phone_Line1_PT1
